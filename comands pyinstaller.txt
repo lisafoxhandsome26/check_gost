@@ -1,0 +1,2 @@
+pyinstaller --onefile interface.py
+pyinstaller --onefile --noconsole interface.py
